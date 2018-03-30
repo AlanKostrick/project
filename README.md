@@ -42,8 +42,11 @@ A `VirtualPet` should now become **abstract**. The idea of a pet needs to be mor
 ### Your Tasks
 
 - Create an abstract `VirtualPet` similar to the Employee class from the Hospital Project that houses common properties and behaviors
+  - Each pet must have a name and type...type can be as generic or specific as you would like to make it
 - Create a `Zoo` similar to the Hospital class from the Hospial Project
-  - Include methods to `addPet()` to the zoo, `removePet()` 
+  - Be able to add a pet
+  - Be able to remove a pet
+  - Be able to display all pets in the zoo, sorted by pet name
 - Create abstract classes or interfaces for `Canine` `Feline` `Domesticated` and `Feral`...this organization will be your choice
 - Create specific classes for `Cat`, `Dog`, `Lion`, `Tiger`, and `Wolf`
 - **Stretch Tasks:** create more specific versions of DigiPets...like `Labrador`, `GoldenRetriever`, `Siamese`, `GrayWolf` etc...
