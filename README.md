@@ -49,5 +49,5 @@ A `VirtualPet` should now become **abstract**. The idea of a pet needs to be mor
   - Be able to display all pets in the zoo, sorted by pet name
 - Create abstract classes or interfaces for `Canine` `Feline` `Domesticated` and `Feral`...this organization will be your choice
 - Create specific classes for `Cat`, `Dog`, `Lion`, `Tiger`, and `Wolf`
-- **Stretch Tasks:** create more specific versions of DigiPets...like `Labrador`, `GoldenRetriever`, `Siamese`, `GrayWolf` etc...
+- **Stretch Tasks:** create more specific versions of DigiPets...like `Labrador`, `GoldenRetriever`, `Siamese`, `GrayWolf` etc...these would fall under parent classes such as `Cat` or `Dog` so in essence it would be another level added to the hierarchy
 
