@@ -26,7 +26,7 @@ Attributes that might update when `tick()` is called:
   
 A `VirtualPet` should now become **abstract**. The idea of a pet needs to be more particular, which we will develop in **concrete** classes. Here is a list of the kinds of pets we have in our zoo.
 
-- In general we have `Canines` and `Felines`, some of which are `Domesticated` and others which are `Feral`. There are some rules when interacting with these pets that will keep the zoo in harmony...
+- In general we have `Canine`s and `Feline`s, some of which are `Domesticated` and others which are `Feral`. There are some rules when interacting with these pets that will keep the zoo in harmony...
   - You can `play()` with `Domesticated` pets to keep them happy but DO NOT play with `Feral`
   - You can `walk()` ONLY `Domesticated` `Canines`
   - `Feral` pets must be kept in cages organized by their own specific type (genus/classification)... for example `Lion`s must be caged with `Lion`s and separate from `Tiger`s
