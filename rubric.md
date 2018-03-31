@@ -13,3 +13,4 @@ Create an App class with a user interface/game loop|20
 Able to sort pets by name | 10 
 Prinicples of Inheritance are utilized in design|10
 Code is runnable, formatted with no syntax errors|20
+**Total Points**|**150**
