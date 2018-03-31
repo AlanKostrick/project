@@ -2,7 +2,7 @@ Category|Max Score
 ------------|--------------
 VirtualPet class|10
 Handling of Domesticated and Feral designs|10
-Hadnling of Canine and Feline designs|10
+Handling of Canine and Feline designs|10
 Dog class|10
 Cat class|10
 Lion class|10
